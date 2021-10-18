@@ -1,0 +1,2 @@
+# Pycode
+shunisi aniq tugaydi
